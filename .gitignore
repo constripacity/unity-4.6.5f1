@@ -1,0 +1,13 @@
+unity-install/
+*.zip
+*.7z
+*.tar.gz
+
+# Never commit Unity license files
+*.ulf
+*.alf
+*.alic
+license/
+
+# Patch backups
+*.preDarkSkinBackup
